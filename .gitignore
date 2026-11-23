@@ -1,0 +1,20 @@
+# Binaries
+*.exe
+*.o
+*.out
+part1/part1
+part1/part1.exe
+part2/part2
+part2/part2.exe
+part3/part3
+part3/part3.exe
+part4/part4
+part4/part4.exe
+part5/part5
+part5/part5.exe
+part6/part6
+part6/part6.exe
+
+# Logs
+*.log
+journal.log
